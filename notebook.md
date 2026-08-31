@@ -1,6 +1,6 @@
 # Notebook
 
-[Home](#index.md)
+[Home](index.md)
 
 ## Table of Contents
 
