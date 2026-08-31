@@ -2,7 +2,7 @@
 
 Hello! I am Flare.
 
-Write a short paragraph about your interests, skills, or goals.
+I am a very sigma guy who likes games
 
 ## Navigation
 
