@@ -15,6 +15,16 @@
   - [Block Quotes](#blockquotes)
 
   - [Tables](#tables)
+ 
+  - [Links & Images](#links&images)
+ 
+  - [Collapsible sections](#collapsiblesections)
+ 
+  - [Footnotes](#footnotes)
+ 
+  - [Style Rules](#stylerules)
+ 
+  - [Bottom line](#bottomline)
 
   - [Vocab](#vocab)
 ## Markdown Style Guide for Coding Notebooks
@@ -128,15 +138,15 @@ When to use: Compare values, track progress, or organize data neatly.
 | Homework 2  | Pending  | Needs review   |
 
 
-# Links & Images
+## Links & Images
 
 When to use: Add references, resources, or visuals.
 
-# Example:
+### Example:
 
 [Java Docs](https://docs.oracle.com/javase/8/docs/api/)  
 
-![Woop](<img width="232" height="233" alt="Screenshot 2026-08-27 122353" src="https://github.com/user-attachments/assets/02f1c4f6-5fd1-4c40-9e9a-f3a587bfda07" />)
+![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
 To make an image that is a link, paste the image, then add the following before it, replacing website address with the link:
 
@@ -144,11 +154,11 @@ To make an image that is a link, paste the image, then add the following before 
 
 And after the image info, add: </a>
 
-# Collapsible Sections
+## Collapsible Sections
 
 When to use: Hide solutions, extended notes, or extra details.
 
-# Example:
+### Example:
 
 <details>
 
@@ -162,11 +172,11 @@ System.out.println("Answer: 42");
 
  
 
-# Footnotes
+## Footnotes
 
 When to use: Add references or side notes without cluttering the page.
 
-# Example:
+### Example:
 
 This concept is related to object-oriented programming.[^1]
 
@@ -174,7 +184,7 @@ This concept is related to object-oriented programming.[^1]
 
  
 
-# Style Rules
+## Style Rules
 
 Consistency matters more than creativity
 
@@ -202,7 +212,7 @@ Use collapsible sections if you want to hide answers until review time.
 
  
 
-# Bottom Line:
+## Bottom Line:
 
 Headings = Structure
 
