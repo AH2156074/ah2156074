@@ -1,14 +1,22 @@
+# Notebook
+
 ## Table of Contents
 
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
-  - [Headings](#headings)
+  - [Notes](#notes)
 
-  - [Text Formatting](#text-formatting)
- 
+  - [Code Blocks](#codeblock)
 
+  - [Lists](#lists)
+    
+  - [Checklist](#checklists)
 
+  - [Block Quotes](#blockquotes)
 
+  - [Tables](#tables)
+
+  - [Vocab](#vocab)
 ## Markdown Style Guide for Coding Notebooks
 
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
@@ -27,29 +35,9 @@ This ensures your notes are easy for you (and others) to read later.
 
 - `###` for subsections (like "Notes", "Practice", "Reflections").  
 
-# Example:
+## day 0
 
-# My Coding Notebook
-
-## Day 1
-
-### Notes
-
-### Practice
-
-# Text Formatting
-
-When to use: Highlight important ideas or add emphasis.
-
-Use bold for key terms or definitions.
-
-Use italic for emphasis or side comments.
-
-Use inline code for keywords, functions, or commands.
-
- 
-
-# Example:
+### notes
 
 **Class** = a blueprint for objects  
 
@@ -57,9 +45,7 @@ Use inline code for keywords, functions, or commands.
 
 Use `System.out.println()` to print
 
- 
-
-# Code Blocks
+## Code Blocks
 
 When to use: Anytime you write multiple lines of code.
 
@@ -67,7 +53,7 @@ Inline code for short snippets.
 
 Fenced code blocks with language for full examples.
 
-# Example:
+### Example:
 
 ```java
 
@@ -83,7 +69,7 @@ public class Hello {
 
 ```
 
-# Lists
+## Lists
 
 When to use: Organize steps, notes, or key points.
 
@@ -91,7 +77,7 @@ Numbered lists for sequences or steps.
 
 Bulleted lists for unordered ideas.
 
-# Example:
+### Example:
 
 Define the class
 Write the main method
@@ -102,13 +88,12 @@ Variables
 
 - Conditionals
 
- 
 
-# Checklists
+## Checklists
 
 When to use: Track progress on assignments or tasks.
 
-# Example:
+### Example:
 
 [x] Complete coding warm-up
 
@@ -118,21 +103,21 @@ When to use: Track progress on assignments or tasks.
 
  
 
-# Blockquotes
+## Blockquotes
 
 When to use: Call out notes, reminders, or teacher comments.
 
-# Example:
+### Example:
 
 > 💡 Remember: Loops repeat code until a condition is false.
 
  
 
-# Tables
+## Tables
 
 When to use: Compare values, track progress, or organize data neatly.
 
-# Example:
+### Example:
 
 | Task        | Status   | Notes          |
 
@@ -142,7 +127,6 @@ When to use: Compare values, track progress, or organize data neatly.
 
 | Homework 2  | Pending  | Needs review   |
 
- 
 
 # Links & Images
 
@@ -152,7 +136,7 @@ When to use: Add references, resources, or visuals.
 
 [Java Docs](https://docs.oracle.com/javase/8/docs/api/)  
 
-![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+![Woop](<img width="232" height="233" alt="Screenshot 2026-08-27 122353" src="https://github.com/user-attachments/assets/02f1c4f6-5fd1-4c40-9e9a-f3a587bfda07" />)
 
 To make an image that is a link, paste the image, then add the following before it, replacing website address with the link:
 
@@ -237,3 +221,33 @@ Blockquotes = Notes/Tips
 Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
+
+
+## Vocab
+<details>
+  <summary>Algorithm</summary>
+    Step-by-step instructions. 
+  
+    Example: The steps to making cookies and a method we use for long math problems are both examples of algorithms.
+</details>
+
+<details>
+  <summary>Sequencing</summary>
+    The order things happen in.
+
+    Example: Brushing your teeth might consist of these steps: Put toothpaste on the toothbrush. Use the toothbrush to clean your teeth.
+</details>
+
+<details>
+  <summary>Selection</summary>
+   Selected parts of an algorithm for a specific choice
+
+    Example: choosing clothes based off the event
+</details>
+
+<details>
+  <summary>Iteration</summary>
+   Parts of the code that repeat
+
+    Example: Adding something multiple times
+</details>
