@@ -263,3 +263,41 @@ Keep it simple, consistent, and clear.
 
     Example: Adding something multiple times
 </details>
+
+<details>
+  <summary>Java</summary>
+    programming language. Java and JavaScript are completely different languages.
+
+</details>
+
+<details>
+  <summary>Object-oriented language</summary>
+   Object-oriented programming is a way of writing code where you group related data and actions into reusable "objects," kind of like organizing tools into labeled boxes.
+  
+</details>
+
+<details>
+  <summary>Procedural language</summary>
+   Procedural Languages focus on procedures (functions) that operate on data in a linear top-down sequence.
+  
+</details>
+
+<details>
+  <summary>Class</summary>
+   A class in object-oriented programming is a template that combines data (attributes) and behavior (methods) to create individual objects that model real-world entities.
+  
+</details>
+
+<details>
+  <summary>Method</summary>
+   A chunk of code that only runs when it's called.
+
+    Example: static void myMethod() { // code to be executed }
+</details>
+
+<details>
+  <summary>Console</summary>
+   The area of a computer that notes from a program can be printed to. Kind of like a notebook.
+
+    Example: On Skill Struck (python, javascript, and java) this is the area that your code is printed to
+</details>
